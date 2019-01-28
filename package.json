@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "qrcode-svg": "^1.0.0",
     "svg.js": "^2.7.1"
   }
 }
