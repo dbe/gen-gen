@@ -1,5 +1,4 @@
 node_modules
 package-lock.json
-test.svg
 .DS_Store
-bigTest.svg
+*.svg
