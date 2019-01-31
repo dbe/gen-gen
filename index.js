@@ -115,3 +115,7 @@ function checkSVG() {
     draw();
   }
 }
+
+function pkFromSerial(serial) {
+
+}
