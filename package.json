@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "base64url": "^3.0.1",
     "bip39": "^2.5.0",
+    "buffer": "^5.2.1",
     "ethers": "^4.0.23",
     "qrcode-svg": "^1.0.0",
     "svg.js": "^2.7.1"
