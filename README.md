@@ -23,6 +23,15 @@ Bundle with browserify, set the `MN` global, and open `index.html`.
 - `serial` — starting serial number
 - `correction` — QR error correction level
 
+## Related
+
+This repo is one half of the Buffidai ETH Denver 2019 tooling:
+
+- **gen-gen** (this repo) — Generates printable SVG sheets of physical Ethereum coins, each containing a QR code with the private key. These are the coins distributed at the event.
+- **[eth-denver-admin](https://github.com/dbe/eth-denver-admin)** — Generates CSV lists of the corresponding public addresses and provides a React UI for administration and tracking.
+
+Both repos use the same HD derivation path and color-based offset scheme.
+
 ## Dependencies
 
 - [ethers](https://www.npmjs.com/package/ethers) — HD wallet derivation
